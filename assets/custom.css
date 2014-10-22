@@ -1,0 +1,78 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+body {
+	line-height: 150%;
+	background-image: url('../img/bg.png');
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: 700px;
+	background-attachment: fixed;
+}
+
+.top-bar .name {
+	background-color: #13256d;
+}
+
+h1 {
+    color: #FFFFFF !important;
+	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
+	font-weight: 100;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+h2 {
+	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 24px;
+	font-weight: 300;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+h3 {
+	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 18px;
+    text-decoration: underline;
+	font-style: italic;
+	font-weight: 100;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+p,li {
+	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	  margin-right: 10px;
+	  margin-left: 10px;
+
+}
+.lightsoff{
+	background-color: #000;
+}
+.fillparent{
+	width: 100%;
+	margin-left: 0%;
+	margin-right: 0%;
+	padding-left: 0%;
+	padding-right: 0%;
+}
+.topbar{
+	background-color: #13256d;
+}
+.bottom {
+  bottom: 0;
+}
+ .top-bar-section li:not(.has-form) a:not(.button),
+.top-bar-section li.active:not(.has-form) a:not(.button)  {
+    background: none repeat scroll 0 0 #13256d;
+	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
+	font-size: 16px;
+	padding-left: 30px;
+	padding-right: 30px;	
+}
+.top-bar-section li a:hover,
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+    border-bottom: 2px solid white;
+}
