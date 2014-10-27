@@ -53,12 +53,8 @@
 							<div class="top-bar-section">
 								<ul class="left">
 									<li><a href="./index.htm">Home</a></li>
-									<li class="has-dropdown active">
+									<li class="active">
 										<a href="./about.htm">About</a>
-										<ul class="dropdown">
-											<li><a href="./about.htm#advisors">Honorary Advisors</a></li>
-											<li><a href="./about.htm#committee">Founding Committee 2014-2015</a></li>
-										</ul>
 									</li>
 									<li><a href="./news.htm">News</a></li>
 									<li><a href="./events.htm">Events</a></li>
@@ -75,7 +71,13 @@
 			<div class="large-12 columns">
 				<div class="row">
 					<div class="large-12 columns">
-						<div class="row events">
+					<dl class="tabs" data-tab>
+  <dd class="active"><a href="#intro">About Us</a></dd>
+  <dd><a href="#advisors">Honorary Advisors</a></dd>
+  <dd><a href="#committee">Founding Committee 2014-2015</a></dd>
+</dl>
+<div class="tabs-content">
+						<div class="row content active" id="intro">
 							<div class="medium-8 small-12 columns">
 								<h2>About Us</h2>
 								<p>The Student Surgical Association of Hong Kong (SSAHK) is a student organization jointly run by medical students from the University of Hong Kong and the Chinese University of Hong Kong. It aims to broaden students’ horizons in different surgical specialties by connecting medical students from both medical schools with the surgeons.</p>
@@ -96,7 +98,8 @@
 								</ul>
 								</p>
 							</div>
-							<a name="advisors"></a>
+						</div>		
+						<div class="row content" id="advisors">
 							<div class="small-12 columns">
 								<h2>Honorary Advisors</h2>
 								<div calss="small-12 columns">
@@ -121,7 +124,8 @@ He is also the Chairman of the Research and Development in CUHK’s Jockey Club 
 									</div>
 								</div>
 							</div>
-							<a name="committee"></a>
+						</div>			
+<div class="row content" id="committee">
 							<div class="small-12 columns">
 								<h2>Founding Committee 2014-2015</h2>
 								<p>
@@ -151,7 +155,7 @@ He is also the Chairman of the Research and Development in CUHK’s Jockey Club 
 										</tr>
 										<tr>
 											<td>Vice-president (internal) </td>
-											<td>Wesley Ho (MBChB 2017)</td>
+											<td>Wesley Ho (MBBS 2017)</td>
 										</tr>
 										<tr>
 											<td>External Directors</td>
@@ -238,6 +242,10 @@ He is also the Chairman of the Research and Development in CUHK’s Jockey Club 
 								</p>
 							</div>
 						</div>
+</div>
+				
+			
+						
 					</div>
 				</div>
 				<footer class="row">

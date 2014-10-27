@@ -40,6 +40,9 @@ h3 {
 	margin-top: 15px;
 	margin-bottom: 5px;
 }
+a:link{
+	color: #E91E63;
+}
 p,li {
 	font-family:  'Oxygen', 'Source Sans Pro', 'helvetica neue', helvetica, arial, sans-serif;
 	font-size: 14px;
@@ -47,6 +50,12 @@ p,li {
 	  margin-right: 10px;
 	  margin-left: 10px;
 
+}
+table {border: none;
+background: transparent;}
+
+table tr.even, table tr.alt, table tr:nth-of-type(even){
+    background: transparent;
 }
 .lightsoff{
 	background-color: #000;
