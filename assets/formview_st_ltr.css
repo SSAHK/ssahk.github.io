@@ -1,0 +1,32 @@
+
+.required-message,.error-message {
+    color:#c43b1d;
+    display:none;
+    font-size:13px
+}
+
+.required~.required-message,.error~.error-message {
+    display:block
+}
+
+ul.ss-choices.required {
+    margin-left:-3px;
+    margin-top:-3px;
+    padding-left:4px;
+    padding-top:4px
+}
+
+.docs-offscreen {
+    position:absolute;
+    left:-10000px;
+    top:-10000px
+}
+
+.errorbox-bad {
+    background-color:#ffe6cc;
+    padding:2px
+}
+
+.errorheader {
+    color:#c43b1d
+}
