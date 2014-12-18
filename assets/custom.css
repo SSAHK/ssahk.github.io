@@ -62,7 +62,6 @@ table tr.even, table tr.alt, table tr:nth-of-type(even){
 }
 .newsslide img {
   min-width: 100%;
-  min-height: 100%;
   height: auto; }
 .fillparent{
 	width: 100%;
