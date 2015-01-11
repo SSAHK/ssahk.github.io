@@ -98,7 +98,7 @@ lang="en">
     </header>
 
     <div class="row">
-        <dl class="tabs vertical" data-tab="">
+        <dl class="tabs vertical" data-tab="" role="tablist" data-options="deep_linking: true">
             <dd class="active">
                 <a href="#year">The Year Ahead</a>
             </dd>
@@ -131,6 +131,7 @@ lang="en">
                     representatives for International Symposium in 2015.</p>
 
                     <div class="row">
+                        <a href="#year">
                         <div class="medium-6 small-12 columns">
                             <h3>Regular Seminars</h3>
 
@@ -144,6 +145,7 @@ lang="en">
                             future career paths, and the preparation needed to
                             pursue a surgical career.</p>
                         </div>
+                        </a>
 
                         <div class="medium-6 small-12 columns">
                             <h3>Careers Night</h3>
@@ -185,9 +187,8 @@ lang="en">
             </div>
 
             <div class="row content" id="Seminar">
-                <a name="Past Events - first seminar"></a>
 
-                <div class="small-12 columns">
+                <div class="small-12 columns" id="seminar1">
                     <h2>Inspiration to become a surgeon: from very basic to
                     using the robot</h2>
 
@@ -320,7 +321,8 @@ lang="en">
             </div>
 			<div class="row content" id="Symposium">
                 <div class="small-12 columns">
-                    <h2>Coming Soon</h2>
+                    <h2>International Symposium</h2>
+					<p>Coming Soon</p>
                 </div>
             </div>
         </div>
