@@ -36,6 +36,26 @@
 		<link rel="stylesheet" href="../assets/custom.css">
 	</head>
 	<body>
+	<!--Facebook-->
+	<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '338943719639745',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+	<!--Facebook -->
+	
 		<header class="topbar">
 			<div class="row">
 				<nav class="top-bar topbar" data-topbar="topbar" role="navigation">
@@ -79,6 +99,12 @@
 								<p>Through this learning experience, we hope that students are inspired by
 								the skills and knowledge demonstrated by the surgeon, and glimpse into the life of
 								surgeons.</p>
+								<div
+								  class="fb-like"
+								  data-share="true"
+								  data-width="450"
+								  data-show-faces="true">
+								</div>
 								<div class="flex-video">
 									<iframe width="560" height="315" src="https://www.youtube.com/embed/9c_we2hgdtg" frameborder="0" allowfullscreen></iframe>
 								</div>
