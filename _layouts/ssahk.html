@@ -5,6 +5,13 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta class="foundation-data-attribute-namespace">
+		<meta class="foundation-mq-xxlarge">
+		<meta class="foundation-mq-xlarge">
+		<meta class="foundation-mq-large">
+		<meta class="foundation-mq-medium">
+		<meta class="foundation-mq-small">
+		<meta class="foundation-mq-topbar">
 		
 		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
@@ -12,19 +19,12 @@
 		<meta name="description" content="{{ site.description }}">
 	
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+		<script src="{{ site.baseurl }}/assets/modernizr.js"></script>
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/custom.css">
+		
         <link href='{{ site.baseurl }}/favico.ico' rel='shortcut icon'/>
         <link href='{{ site.baseurl }}/favico.ico' rel='icon' type='image/png'/>
-		<link rel="stylesheet" href="{{ site.baseurl }}/assets/foundation.css">
-		<script src="{{ site.baseurl }}/assets/modernizr.js"></script>
-		<style type="text/css"></style>
-		<meta class="foundation-data-attribute-namespace">
-		<meta class="foundation-mq-xxlarge">
-		<meta class="foundation-mq-xlarge">
-		<meta class="foundation-mq-large">
-		<meta class="foundation-mq-medium">
-		<meta class="foundation-mq-small">
-		<style></style>
-		<meta class="foundation-mq-topbar">
+		
 		<style>[touch-action="none"]{ -ms-touch-action: none; touch-action: none; }[touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }[touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }[touch-action="scroll"],[touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }</style>
 		<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
 			.en-markup-crop-options {
@@ -39,7 +39,6 @@
 			margin-left: 0px !important;
 			}
 		</style>
-		<link rel="stylesheet" href="{{ site.baseurl }}/assets/custom.css">
 	</head>
 	<body>
 		<header class="topbar">
