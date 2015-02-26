@@ -3,15 +3,16 @@ layout: page
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+  <h2>{{ page.title }}</h2>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  <p><i>
+    Last updated: {{ page.date | date: "%B %e, %Y" }}
+  </p></i>
   </div>
 
-  {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>

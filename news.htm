@@ -13,103 +13,23 @@ permalink: /news/
 				<div class="row events">
 					<h2>Latest News</h2>
 					
-					<div class="panel">
 					
-					<a name="Professor Sydney Chung Seminar"></a>
-					<h3>SSAHK 4th seminar – “What is the Minimally Invasive Surgery to the Brain?”</h3>
-					<p>Our brain is the most complex machine that has ever existed. With modern advances in neuroscience, neurosurgeons have acquired unique opportunities to study the brain - the most complex 3 pound structure of this Universe. Now, we are proud to introduce our first event in the Specialties Seminar Series – a seminar on Neurosurgery!</p>
-					<p>We’ve kindly invited Prof Poon Wai Sang, who is currently the Chairperson of the Board of Neurosurgery in the College of Surgeons of Hong Kong, to give us a talk on “What is the minimally invasive surgery to the brain?</p>
-<p><u>Details of the event are as follows:</u><br />
-Topic: What is the minimally invasive surgery to the brain?<br />
-Date: 27th February 2015 (Fri)<br />
-Time:  7 – 9 p.m.<br />
-Venue: Lecture Theatre, Clinical Sciences Building, PWH<br />
-No. of Place: 100 (first-come, first-served)<br />
-Price: Free of charge<br /></p>
-<br>
-<p>Don’t hesitate! <a href="https://docs.google.com/forms/d/1zxYRSNPLiC7kdDRMJtyAEjkxwPNdh7zq2ypYdpXpMWM/viewform">Apply via this link.</a></p>
-<p><i>Application deadline: 20th February 2015</i></p>
-<p>For further information, please send us an email (<a href="mailto:info@ssahk.org">info@ssahk.org</a>) or contact our Communication officer, Chloe Lau (6842 2990).</p>
-					</div>
-										
+					{% for post in site.posts %}
+					{% if post.type == 'news'%}
 					<div class="panel">
-					
-					<a name="Professor Sydney Chung Seminar"></a>
-					<h3>SSAHK 3rd seminar – “Surgical Challenges in the Tropics”</h3>
-					<p>It is our honour to have Professor Sydney Chung, the Father of Endoscopy in Hong Kong, as our guest speaker for the third seminar of the SSAHK in the coming February. Professor Chung introduced the technique of endoscopy into the local medical system in 1993, marking one of the turning points in the surgical history of Hong Kong. In 2004, he travelled to the Independent State of Papua New Guinea and worked as a surgeon to help the needy, believing that it was a more pragmatic approach to enhance patients' well-being.</p>
-<p><u>Details of the event are as follows:</u><br />
-Topic: Surgical Challenges in the Tropics<br />
-Date: 6th February 2015<br />
-Time: 7:00 - 10:00 pm<br />
-Venue: Lecture Theatre, Clinical Sciences Building, PWH<br />
-No. of Place: 200 (first-come, first-served)<br />
-Price: Free of charge<br />
-Shuttle Bus Fee: Shuttle Bus Fees: HK$30 (members); HK$35 (non-members)</p>
-<br>
-<p>Please be informed that all applicants must <a href="http://goo.gl/forms/QkM4sbSfyt">apply via this link.</a></p>
-<p><i>Application deadline: 23rd January, 2015</i></p>
-<p>For further information, please send us an email (<a href="mailto:info@ssahk.org">info@ssahk.org</a>) or contact our Communication officer, Chloe Lau (6842 2990).</p>
+						<article class="post">
+						
+						<h3>{{ post.title }}</h3>
+							  <div class="entry">
+								{{ post.content | truncatewords:40}}
+								 <p>
+									  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+								  </p>
+							  </div>
+						</article>
 					</div>
-										
-					<div class="panel">
-					
-					<a name="Professor CM Lo Seminar"></a>
-					<h3>SSAHK 2nd seminar – “The Art and Science of Surgery”</h3>
-					<p>We are proud to present the SSAHK 2nd seminar – “The Art and Science of Surgery”, scheduled on 14/1/2015. The guest speaker is the Head of Department of Surgery at the University of Hong Kong, as well as one of our honorary advisors, Professor Chung-mau Lo. Want to know the story behind a great hepatobiliary surgeon? Don't miss this chance!</p>
-<p><u>Details of the event are as follows:</u><br />
-Topic: The Art and Science of Surgery<br />
-Date: 14th January, 2015 (Wed)<br />
-Time: 6:45 - 9:30 p.m.<br />
-Venue: Lecture Theatre 3, MMW Building, Li Ka Shing Faculty of Medicine, HKU<br />
-No. of Place: 200 (first-come, first-served)<br />
-Price: Free of charge</p>
-<br>
-<p>Please be informed that all applicants must <a href="http://goo.gl/forms/UwYq2ehcEY">apply via this link.</a></p>
-<p><i>Application deadline: 7th January, 2015</i></p>
-<p>Refreshment will be served.<br />
-No shuttle bus service is provided. Our helpers will guide you to the aforementioned lecture theatre from the HKU MTR station</p>
-<p>For further information, please send us an email (<a href="mailto:info@ssahk.org">info@ssahk.org</a>) or contact our Communication officer, Chloe Lau (6842 2990).</p>
-					</div>
-					
-					<div class="panel">
-					
-					<a name="Postponement of Interactive Seminar (updated)"></a>
-					<h3>Postponement of Interactive Seminar (updated)</h3>
-					<p>Dear All,</p>
-
-<p>In light of the recent class boycott movement and ongoing protests in the society, we have rescheduled our first seminar, &ldquo;Inspiration to become a surgeon: from very basic to using the Robot&rdquo;, Live interaction with Prof. Enders Ng, to 14th November, 2014. </p>
-
-<p>In addition, 25 applicants will be selected to join the exclusive trip to the CUHK Jockey Club Minimally Invasive Surgical Skills Centre on the same day before the seminar. This is a unique opportunity for applicants to gain some hands-on experience in controlling the Robot (da Vinci &reg; Surgical System). Selected applicants will be informed through email or phone.</p>
-
-<p>Details of the seminar are as follow:<br />
-Topic: Inspiration to Become a Surgeon: From Very Basic to Using the Robot<br />
-Date: 14th November 2014 (Friday)<br />
-Time: 7:45 pm<br />
-Venue: Lecture Theatre, Lui Che Woo Clinical Sciences Building, Prince of Wales Hospital<br />
-Price: Free of charge</p>
-
-<p>Application deadline: 31st October</p>
-
-<p>Refreshments will also be provided.</p>
-
-<p>Please be informed that all applicants must apply to the seminar via the link below:<br />
-<a href="https://docs.google.com/forms/d/1heORqBod0S9WWFI8XeEKJ8iC-EU7SG5a_Qn5B9S8AS8/viewform">https://docs.google.com/forms/d/1heORqBod0S9WWFI8XeEKJ8iC-EU7SG5a_Qn5B9S8AS8/viewform</a> </p>
-
-<p>For those who have applied previously, please indicate your availability to attend the seminar on the newly scheduled date. If you have not applied already, we still welcome new applicants for the seminar.</p>
-
-<p>We apologize for any inconvenience caused. </p>
-
-<p>For further information, please send us an email (<a href="mailto:info@ssahk.org">info@ssahk.org</a>) or contact our Communication officer, Chloe Lau (6842 2990).</p>
-
-<p>Best Regards,<br />
-Committee of the Student Surgical Association of Hong Kong</p>
-					</div>
-					<div class="panel">
-					<a name="Postponement of Interactive Seminar"></a>
-					<h3>Postponement of Interactive Seminar</h3>
-					<p>In light of the recent class boycott movement and ongoing protests in the society, we decided to postpone the first seminar scheduled on 17th October. We apologize for any inconvenience caused. Further details and arrangements will be updated as soon as possible. 
-						For further information, please send us an email (ssahk1415@gmail.com) or contact our Communication officer, Chloe Lau (6842 2990).
-					</p>
-					</div>
+					{% endif %}
+					{% endfor %}	
+			
 				</div>
 			</div>
