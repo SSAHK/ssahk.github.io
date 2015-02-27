@@ -5,8 +5,7 @@ category: review
 excerpt:  As one of the leading figures in this field, Professor Ng shared with us his personal thoughts and memorable episodes encountered during his career, as well as his visit to Southern Asia as a member of Médecins Sans Frontières (MSF) following the tsunami in 2004...
 ---
 
-## Inspiration to become a surgeon: from very basic to using the robot
-### First Seminar, 14th November 2014
+First Seminar, 14th November 2014
 
 On 14th November 2014, we were delighted to have
 Professor Enders Ng as the guest speaker for our first
