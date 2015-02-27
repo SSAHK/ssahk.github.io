@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSAHK 4th seminar – “What is the Minimally Invasive Surgery to the Brain?”
-type: news
+category: news
 ---
 Our brain is the most complex machine that has ever existed. With modern advances in neuroscience, neurosurgeons have acquired unique opportunities to study the brain - the most complex 3 pound structure of this Universe. Now, we are proud to introduce our first event in the Specialties Seminar Series – a seminar on Neurosurgery!
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSAHK 3rd seminar – “Surgical Challenges in the Tropics”
-type: news
+category: news
 ---
 It is our honour to have Professor Sydney Chung, the Father of Endoscopy in Hong Kong, as our guest speaker for the third seminar of the SSAHK in the coming February. Professor Chung introduced the technique of endoscopy into the local medical system in 1993, marking one of the turning points in the surgical history of Hong Kong. In 2004, he travelled to the Independent State of Papua New Guinea and worked as a surgeon to help the needy, believing that it was a more pragmatic approach to enhance patients' well-being.
 

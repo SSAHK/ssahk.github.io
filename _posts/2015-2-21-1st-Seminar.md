@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postponement of Interactive Seminar (updated)
-type: news
+category: news
 ---
 In light of the recent class boycott movement and ongoing protests in the society, we have rescheduled our first seminar, “Inspiration to become a surgeon: from very basic to using the Robot”, Live interaction with Prof. Enders Ng, to 14th November, 2014.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SSAHK 2nd seminar – “The Art and Science of Surgery”
-type: news
+category: news
 ---
 We are proud to present the SSAHK 2nd seminar – “The Art and Science of Surgery”, scheduled on 14/1/2015. The guest speaker is the Head of Department of Surgery at the University of Hong Kong, as well as one of our honorary advisors, Professor Chung-mau Lo. Want to know the story behind a great hepatobiliary surgeon? Don't miss this chance!
 
