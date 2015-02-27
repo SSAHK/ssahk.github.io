@@ -1,0 +1,26 @@
+---
+layout: page
+title: Past Seminars
+permalink: /seminars/
+---
+
+<h2>Past Seminars</h2>
+
+{% for post in site.posts %}
+	{% if post.categories contains 'review' and post.categories contains 'seminar'%}
+	<div class="panel">
+		<article class="post">
+		
+		<h3>{{ post.title }}</h3>
+			  <div class="entry">
+				<p>
+					{{ post.excerpt }}
+				</p>
+			 <p>
+				  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+			  </p>
+			  </div>
+		</article>
+	</div>
+	{% endif %}
+{% endfor %}
