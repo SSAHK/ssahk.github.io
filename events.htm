@@ -86,26 +86,7 @@ permalink: /events/
 					send representatives to the International Symposium
 					of IASSS in the summer of 2015.</p>
 				</div>
-			</div>
-								
-					{% for post in site.posts %}
-					{% if post.category == 'review'%}
-					<div class="panel">
-						<article class="post">
-						
-						<h3>{{ post.title }}</h3>
-							  <div class="entry">
-								<p>
-									{{ post.excerpt }}
-								</p>
-							 <p>
-								  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
-							  </p>
-							  </div>
-						</article>
-					</div>
-					{% endif %}
-					{% endfor %}	
+			</div>	
 					
 		</div>
 	</div>
