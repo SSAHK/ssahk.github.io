@@ -12,17 +12,17 @@ permalink: /seminars/
 	
 	<h3>{{ post.title }}</h3>
 		  <div class="entry">
-		  	<div class="medium-6 small-12 columns">
+		  	<div class="medium-8 small-12 columns">
 				<p>
 					{{ post.excerpt }}
 				</p>
+				 <p>
+					  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+				  </p>
 			</div>
-		  	<div class="medium-6 small-12 columns">
-					<img height="200" width="200" src="{{ site.basurl }}{{ post.feature-img }}"/>
+		  	<div class="medium-4 small-12 columns">
+					<img height="100" width="100" src="{{ site.basurl }}{{ post.feature-img }}"/>
 			</div>			
-		 <p>
-			  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
-		  </p>
 		  </div>
 	<hr>
 	</article>
