@@ -112,4 +112,4 @@ our future events!
 		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"
 		width="200"></a>
 	</li>
-</ul>]
+</ul>
