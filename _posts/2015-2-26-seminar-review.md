@@ -3,7 +3,6 @@ layout: post
 title: Inspiration to become a surgeon: from very basic to using the robot
 category: review
 ---
----
 
 ## Inspiration to become a surgeon: from very basic to using the robot
 ### First Seminar, 14th November 2014
