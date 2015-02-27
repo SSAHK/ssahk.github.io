@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Inspiration to become a surgeon: from very basic to using the robot
-category: news
+title: Inspiration to become a surgeon- from very basic to using the robot
+category: review
 ---
 
 ## Inspiration to become a surgeon: from very basic to using the robot
