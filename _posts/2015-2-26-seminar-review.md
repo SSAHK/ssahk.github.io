@@ -55,63 +55,61 @@ Thank you for attending our first seminar. We hope you
 found the experience rewarding, and we hope to see you at
 our future events!
 
-<div class="small-12 columns">
-	<ul class="clearing-thumbs clearing-feature" data-clearing=
-	"">
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"><img height="2000"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"
-			width="200"></a>
-		</li>
+<ul class="clearing-thumbs clearing-feature" data-clearing=
+"">
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"><img height="2000"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"
-			width="200"></a>
-		</li>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"
+		width="200"></a>
+	</li>
 
-		<li class="clearing-featured-img">
-			<a class="th" href=
-			"{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"><img height="200"
-			src="{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"
-			width="200"></a>
-		</li>
-	</ul>
-</div>
+	<li class="clearing-featured-img">
+		<a class="th" href=
+		"{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"><img height="200"
+		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"
+		width="200"></a>
+	</li>
+</ul>]
