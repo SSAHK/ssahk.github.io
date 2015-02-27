@@ -2,6 +2,7 @@
 layout: post
 title: Surgical Challenges in the Tropics
 categories: [seminar,review]
+feature-img: /img/third_seminar/third_seminar%20(1).jpg
 excerpt:  During the seminar, Professor Chung shared his experiences of treating impoverished patients in Papua New Guinea from 2004 to 2007. The country was amidst hostile circumstances at the time; Its medical resources were thus inadequate to provide proper treatment...
 ---
 
