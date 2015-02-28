@@ -2,6 +2,7 @@
 layout: post
 title: CSHK 25th Anniversary Mentorship Programme 2015 -- "Ignite a Spark, Create a Legacy"
 category: news
+excerpt: ![Do you want a surgeon as your mentor?]({{ site.baseurl }}/img/mentoring2015.png)
 ---
 Are you confused about your future?
 
