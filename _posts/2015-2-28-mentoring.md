@@ -17,19 +17,21 @@ The College of Surgeons of Hong Kong is organizing a mentorship scheme for medic
 
 This programme aims to develop lasting relationships between surgeons and medical students, and enhance your understanding in the daily routine and lives of surgeons.
 
+Mentee application is now open for students of Year 1 and 2. (Graduation year 2019 and 2020)
+
 ## Aim
-- foster connections between surgeons and students
-- introduce students to surgery
-- provide assistance to medical students
-- let medical students to explore the daily routine and lives of surgeons
+- To foster connections between surgeons and students
+- To introduce students to surgery
+- To provide assistance to medical students
+- To let students explore the daily routine and lives of surgeons
 
 ## Specialties
-- General Surgery
-- Paediatric Surgery
-- Urology
-- Neurosurgery
-- Plastic Surgery
-- Cardiothoracic Surgery
+- General Surgery (外科)
+- Paediatric Surgery (小兒外科)
+- Urology (泌尿外科)
+- Neurosurgery (腦外科)
+- Plastic Surgery (整形外科)
+- Cardiothoracic Surgery (心胸肺外科)
 
 ## Matching
 Mentors and mentees will be matched based on their personal profile and comment interest and expectations. 
