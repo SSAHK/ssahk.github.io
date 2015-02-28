@@ -2,19 +2,18 @@
 layout: post
 title: CSHK 25th Anniversary Mentorship Programme 2015 -- "Ignite a Spark, Create a Legacy"
 category: news
-excerpt: ![Do you want a surgeon as your mentor?]({{ site.baseurl }}/img/mentoring2015.png)
 ---
+![Do you want a surgeon as your mentor?]({{ site.baseurl }}/img/mentoring2015.png)
+
 Are you confused about your future?
 
 Have you thought of being in surgery, but wondered what it's like to be a surgeon?
 
 Have you longed for a chance of clinical attachment or research opportunities?
 
-![Do you want a surgeon as your mentor?]({{ site.baseurl }}/img/mentoring2015.png)
-
 ## Ignite a Spark, Create a Legacy
 
-As an affiliated student organisation of the College of Surgeons of Hong Kong (CSHK), we are proud to announce that a mentorship scheme will be offered to our Year 1 and Year 2 members of SSAHK this year.
+The College of Surgeons of Hong Kong is organizing a mentorship scheme for medical students from the University of Hong Kong and the Chinese University of Hong Kong.
 
 This programme aims to develop lasting relationships between surgeons and medical students, and enhance your understanding in the daily routine and lives of surgeons.
 
