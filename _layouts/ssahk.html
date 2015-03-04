@@ -73,7 +73,9 @@
 				</nav>
 			</div>
 		</header>
-		{% if page.maintenance == blank %}
+		{% if page.maintenance %}
+			<p><h2>Maintenance mode. Sorry!</h2></p>
+		{% else %}
 			{{ content }}
 		{% endif %}
 		<footer class="row">
