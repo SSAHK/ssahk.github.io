@@ -73,7 +73,8 @@
 				</nav>
 			</div>
 		</header>
-		{{ content }}
+		{% if page.maintenance == blank %}
+			{{ content }}
 		<footer class="row">
 			<div class="small-12 columns">
 				<p class="text-center">{{ site.copyright }}</p>
