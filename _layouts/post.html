@@ -6,7 +6,11 @@ layout: page
   <h2>{{ page.title }}</h2>
 
   <div class="entry">
-    {{ content }}
+	{% if page.maintenance %}
+		 {% include maintenance.html %}
+	{% else %}
+		{{ content }}
+	{% endif %}
   </div>
 
   <div class="date">

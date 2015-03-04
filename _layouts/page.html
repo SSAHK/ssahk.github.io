@@ -3,7 +3,11 @@ layout: ssahk
 ---
 
 <div class="row">
-	<div class="large-12 columns">
+	<div class="large-12 columns">			
+		{% if page.maintenance %}
+			 {% include maintenance.html %}
+		{% else %}
 			{{ content }}
+		{% endif %}
 	</div>
 </div>

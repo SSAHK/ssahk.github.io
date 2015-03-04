@@ -73,11 +73,7 @@
 				</nav>
 			</div>
 		</header>
-		{% if page.maintenance %}
-			 {% include maintenance.html %}
-		{% else %}
-			{{ content }}
-		{% endif %}
+		{{ content }}
 		<footer class="row">
 			<div class="small-12 columns">
 				<p class="text-center">{{ site.copyright }}</p>
