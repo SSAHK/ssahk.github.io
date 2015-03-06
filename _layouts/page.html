@@ -4,10 +4,17 @@ layout: ssahk
 
 <div class="row">
 	<div class="large-12 columns">			
-		{% if page.maintenance %}
-			 {% include maintenance.html %}
-		{% else %}
-			{{ content }}
-		{% endif %}
+
+	{% if page.feature-img %}
+	  <div class="feature">
+			<img src="{{ site.basurl }}{{ page.feature-img }}"/>
+	  </div>
+	{% endif %}
+  
+	{% if page.maintenance %}
+		 {% include maintenance.html %}
+	{% else %}
+		{{ content }}
+	{% endif %}
 	</div>
 </div>
