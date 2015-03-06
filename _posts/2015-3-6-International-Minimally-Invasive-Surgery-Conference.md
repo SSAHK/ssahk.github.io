@@ -9,6 +9,6 @@ The Department of Surgery of CUHK is hosting the International Minimally Invasiv
 
 We would like to invite students to attend this conference. Application details will be published soon.
 
-![International Minimally Invasive Surgery Conference]({{ site.baseurl }}/img/imisc2015_rundown.png)
+![International Minimally Invasive Surgery Conference]({{ site.baseurl }}/img/imisc2015_rundown.jpg)
 
 [Programme Rundown]({{ site.baseurl }}/public/iMISC-programme-rundown.pdf)
