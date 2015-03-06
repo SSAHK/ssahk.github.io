@@ -5,9 +5,9 @@ feature-img: /img/imisc2015.png
 categories: [news,conference]
 ---
 
-The Department of Surgery of CUHK is hosting the International Minimally Invasive Surgery Conference to celebrate the 10th Anniversary of our Minimally Invasive Surgical Skills Center. The programme covers different aspects of minimally invasice surgery and its latest development. The opening ceremony and the plenary lectures on 19 March are of particular interest to students since influential surgeons around the world are invited.
+The International Minimally Invasive Surgery Conference is going to be held in HK Convention & Exhibition Center from 19-21 March 2015, to celebrate the 10th Anniversary of the Minimally Invasive Surgical Skills Center in CUHK. The programme covers different aspects of minimally invasive surgery and its latest development. The opening ceremony and the plenary lectures on 19 March are of particular interest to students since influential surgeons around the world are invited.
 
-We would like to invite students to attend this conference. Application details will be published soon.
+Medical students from both HKU and CUHK are invited to attend the conference. Application details will be published soon. Please note that registration fee of students will be waived.
 
 ![International Minimally Invasive Surgery Conference]({{ site.baseurl }}/img/imisc2015_rundown.jpg)
 
