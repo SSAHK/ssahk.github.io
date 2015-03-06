@@ -5,11 +5,11 @@ layout: page
 <article class="post">
   <h2>{{ page.title }}</h2>
 
-  <div class="feature">
 	{% if page.feature-img %}
-		<img alt="page.title" src="{{ site.basurl }}{{ post.feature-img }}"/>
+	  <div class="feature">
+			<img src="{{ site.basurl }}{{ page.feature-img }}"/>
+	  </div>
 	{% endif %}
-  </div>
   
   <div class="entry">
 	{% if page.maintenance %}
