@@ -15,7 +15,7 @@ permalink: /news/
 					
 					
 					{% for post in site.posts %}
-					{% if post.category == 'news'%}
+					{% if post.categories contains 'news'%}
 					<div class="panel">
 						<article class="post">
 						
