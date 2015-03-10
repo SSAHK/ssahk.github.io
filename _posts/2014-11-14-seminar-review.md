@@ -2,8 +2,8 @@
 layout: post
 title: Inspiration to become a surgeon- from very basic to using the robot
 categories: [seminar,review]
-thumb-img: {{ site.imgurl }}/first_seminar/thumb.jpg
-feature-img: {{ site.imgurl }}/EndersNgSeminar.png
+thumb-img: /first_seminar/thumb.jpg
+feature-img: /EndersNgSeminar.png
 excerpt:  As one of the leading figures in this field, Professor Ng shared with us his personal thoughts and memorable episodes encountered during his career, as well as his visit to Southern Asia as a member of Médecins Sans Frontières (MSF) following the tsunami in 2004...
 ---
 
