@@ -2,8 +2,8 @@
 layout: post
 title: The Art and Science of Surgery
 categories: [seminar,review]
-thumb-img: /img/second_seminar/thumb.jpg
-feature-img: /img/CMLoSeminar.png
+thumb-img: {{ site.imgurl }}/second_seminar/thumb.jpg
+feature-img: {{ site.imgurl }}/CMLoSeminar.png
 excerpt:  Professor Lo paralleled his personal experiences in liver transplant surgeries with the romantic tragedy "Titanic", to highlight the humanitarian sides of surgeries. Interestingly, he compared the 100% success rate in most surgeries with the 200% success rate in transplant surgeries...
 ---
 

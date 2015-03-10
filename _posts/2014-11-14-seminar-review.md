@@ -2,8 +2,8 @@
 layout: post
 title: Inspiration to become a surgeon- from very basic to using the robot
 categories: [seminar,review]
-thumb-img: /img/first_seminar/thumb.jpg
-feature-img: /img/EndersNgSeminar.png
+thumb-img: {{ site.imgurl }}/first_seminar/thumb.jpg
+feature-img: {{ site.imgurl }}/EndersNgSeminar.png
 excerpt:  As one of the leading figures in this field, Professor Ng shared with us his personal thoughts and memorable episodes encountered during his career, as well as his visit to Southern Asia as a member of Médecins Sans Frontières (MSF) following the tsunami in 2004...
 ---
 
@@ -61,57 +61,57 @@ our future events!
 "">
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"><img height="2000"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(1).JPG"><img height="2000"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(1).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(2).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(2).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(7).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(7).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(11).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(11).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(22).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(22).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(28).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(28).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(44).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(44).JPG"
 		width="200"></a>
 	</li>
 
 	<li class="clearing-featured-img">
 		<a class="th" href=
-		"{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"><img height="200"
-		src="{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"
+		"{{ site.imgurl }}/first_seminar/first_seminar%20(48).JPG"><img height="200"
+		src="{{ site.imgurl }}/first_seminar/first_seminar%20(48).JPG"
 		width="200"></a>
 	</li>
 </ul>

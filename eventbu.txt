@@ -27,85 +27,85 @@
 			"">
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(1).jpg"><img height="2000"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(1).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(1).jpg"><img height="2000"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(1).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(2).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(2).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(2).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(2).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(3).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(3).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(3).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(3).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(4).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(4).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(4).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(4).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(5).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(5).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(5).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(5).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(6).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(6).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(6).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(6).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(7).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(7).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(7).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(7).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(9).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(9).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(9).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(9).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(10).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(10).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(10).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(10).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(11).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(11).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(11).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(11).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(12).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(12).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(12).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(12).jpg"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/third_seminar/third_seminar%20(13).jpg"><img height="200"
-					src="{{ site.basurl }}/img/third_seminar/third_seminar%20(13).jpg"
+					"{{ site.imgurl }}/third_seminar/third_seminar%20(13).jpg"><img height="200"
+					src="{{ site.imgurl }}/third_seminar/third_seminar%20(13).jpg"
 					width="200"></a>
 				</li>
 
@@ -177,57 +177,57 @@
 			"">
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"><img height="2000"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(1).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(1).JPG"><img height="2000"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(1).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(2).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(2).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(2).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(7).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(7).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(7).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(11).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(11).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(11).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(22).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(22).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(22).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(28).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(28).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(28).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(44).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(44).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(44).JPG"
 					width="200"></a>
 				</li>
 
 				<li class="clearing-featured-img">
 					<a class="th" href=
-					"{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"><img height="200"
-					src="{{ site.basurl }}/img/first_seminar/first_seminar%20(48).JPG"
+					"{{ site.imgurl }}/first_seminar/first_seminar%20(48).JPG"><img height="200"
+					src="{{ site.imgurl }}/first_seminar/first_seminar%20(48).JPG"
 					width="200"></a>
 				</li>
 			</ul>

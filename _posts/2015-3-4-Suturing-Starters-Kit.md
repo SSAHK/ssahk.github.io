@@ -2,7 +2,7 @@
 layout: post
 title: Suturing Starters' Kit
 permalink: /suturing/kit/
-feature-img: /img/suturingkit.png
+feature-img: {{ site.imgurl }}/suturingkit.png
 category: article
 ---
 Welcome to the Suturing Workshops! You must be more than eager to start trying, but here are some information to get started in case you are puzzling about each and every details of the skills.

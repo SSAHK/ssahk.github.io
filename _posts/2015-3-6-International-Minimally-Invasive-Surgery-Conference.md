@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Minimally Invasive Surgery Conference 2015
-feature-img: /img/imisc2015.png
+feature-img: {{ site.imgurl }}/imisc2015.png
 categories: [news,conference]
 ---
 
@@ -9,7 +9,7 @@ The International Minimally Invasive Surgery Conference is going to be held in H
 
 Medical students from both HKU and CUHK are invited to attend the conference. Please note that registration fee for students will be waived.
 
-![International Minimally Invasive Surgery Conference]({{ site.baseurl }}/img/imisc2015_rundown.jpg)
+![International Minimally Invasive Surgery Conference]({{ site.imgurl }}/imisc2015_rundown.jpg)
 
 ## Registration
 [Online Registration Form](https://docs.google.com/forms/d/12UPS4_Mv7boztqcRQIjJVZO2gIVRF-5ZECNUAcL52Kc/viewform)
