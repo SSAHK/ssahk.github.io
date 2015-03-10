@@ -2,7 +2,7 @@
 layout: post
 title: International Minimally Invasive Surgery Conference 2015
 categories: [news,conference]
-feature-img: {{ site.imgurl }}/imisc2015.png
+feature-img: /imisc2015.png
 ---
 
 The International Minimally Invasive Surgery Conference is going to be held in HK Convention & Exhibition Center from 19-21 March 2015, to celebrate the 10th Anniversary of the Minimally Invasive Surgical Skills Center in CUHK. The programme covers different aspects of minimally invasive surgery and its latest development. The opening ceremony and the plenary lectures on 19 March are of particular interest to students since influential surgeons around the world are invited.
