@@ -14,7 +14,7 @@ Medical students from both HKU and CUHK are invited to attend the conference. Pl
 ## Registration
 [Online Registration Form](https://docs.google.com/forms/d/12UPS4_Mv7boztqcRQIjJVZO2gIVRF-5ZECNUAcL52Kc/viewform)
 
-Application deadline: 10th March 2015
+Application deadline: 13th March 2015
 
 ## Further Information
 
