@@ -139,14 +139,14 @@ function processData() {
 					var result = populateResultContent($resultTemplate.html(), item, excerpt);
 					resultsCount++;
 					results += result;
-					return;
+					return false;
 				}
 				
 				if (item.title.toLowerCase().indexOf(query.toLowerCase()) > -1) {
 					var result = populateResultTitle($resultTemplate.html(), item);
 					resultsCount++;
 					results += result;
-					return;
+					return false;
 				}
 			});
         });
