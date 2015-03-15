@@ -114,7 +114,16 @@ function processData() {
 
         $.each(data, function(index, item) {
             // check if search term is in content or title 
-            if (item.content.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
+			var contentResult = item.content.toLowerCase().indexOf(q.toLowerCase());
+            if (contentResult > -1){
+				var excerpt = item.content.substring(contentResult-75, contentResult+75); 
+                var result = populateResultContent($resultTemplate.html(), item, excerpt);
+                resultsCount++;
+                results += result;
+				return;
+			}
+			
+			if (item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
                 var result = populateResultContent($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;
@@ -146,15 +155,29 @@ function showSearchResults(results) {
  * Add results content to item template
  * @param {String} html 
  * @param {object} item
+ * @param {String} excerpt with search item
+ * @return {String} Populated HTML
+ */
+function populateResultContent(html, item, excerpt) {
+    html = injectContent(html, item.title, '##Title##');
+    html = injectContent(html, item.link, '##Url##');
+    html = injectContent(html, excerpt, '##Excerpt##');
+    html = injectContent(html, item.date, '##Date##');
+    return html;
+}
+/**
+ * Add results content to item template
+ * @param {String} html 
+ * @param {object} item
  * @return {String} Populated HTML
  */
 function populateResultContent(html, item) {
     html = injectContent(html, item.title, '##Title##');
     html = injectContent(html, item.link, '##Url##');
-    html = injectContent(html, item.excerpt, '##Excerpt##');
     html = injectContent(html, item.date, '##Date##');
     return html;
 }
+
 
 
 /**
