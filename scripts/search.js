@@ -127,7 +127,27 @@ function processData() {
                 var result = populateResultTitle($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;
+				return;
             }
+			
+			var array = q.toLowerCase().split(" "); 
+			$.each(array, function(index, query) {
+				// check if search term is in content or title 
+				var contentResult = item.content.toLowerCase().indexOf(query.toLowerCase());
+				if (contentResult > -1){
+					var excerpt = item.content.substring(contentResult-75, contentResult+75); 
+					var result = populateResultContent($resultTemplate.html(), item, excerpt);
+					resultsCount++;
+					results += result;
+					return;
+				}
+				
+				if (item.title.toLowerCase().indexOf(query.toLowerCase()) > -1) {
+					var result = populateResultTitle($resultTemplate.html(), item);
+					resultsCount++;
+					results += result;
+					return;
+				}
         });
 
         if (showLoader) {
