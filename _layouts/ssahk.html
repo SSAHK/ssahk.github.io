@@ -18,7 +18,7 @@
 		<!-- Open Graph metadata -- Better appearance on Facebook! -->
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}" />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />		
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />		
 		{% if page.feature-img %}
 		<meta property="og:image" content="{{ site.imgurl }}{{ page.feature-img }}"/>
 		{% endif %}
