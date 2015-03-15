@@ -124,7 +124,7 @@ function processData() {
 			}
 			
 			if (item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
-                var result = populateResultContent($resultTemplate.html(), item);
+                var result = populateResultTitle($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;
             }
@@ -171,9 +171,10 @@ function populateResultContent(html, item, excerpt) {
  * @param {object} item
  * @return {String} Populated HTML
  */
-function populateResultContent(html, item) {
+function populateResultTitle(html, item) {
     html = injectContent(html, item.title, '##Title##');
     html = injectContent(html, item.link, '##Url##');
+    html = injectContent(html, item.excerpt, '##Excerpt##');
     html = injectContent(html, item.date, '##Date##');
     return html;
 }
