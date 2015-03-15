@@ -148,6 +148,7 @@ function processData() {
 					results += result;
 					return;
 				}
+			}
         });
 
         if (showLoader) {
