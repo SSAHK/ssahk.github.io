@@ -14,6 +14,9 @@ We would encourage you to go through these materials before participating in the
 
 
 ### Instrument Tie
+<div class="flex-video">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/-smZKFnC-U8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 ### Interrupted Sutures
@@ -23,8 +26,9 @@ We would encourage you to go through these materials before participating in the
 <div class="flex-video">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/_lvQ2YJ0RjQ" frameborder="0" allowfullscreen></iframe>
 </div>
-Hand Tie is somewhat the most difficult part of the course, but it is a must-learn skill for surgeons regardless of the sub-speciality you choose. Most surgeons use hand tie over instrument tie, if that matters.
+Hand Tie is somewhat the most difficult part of the course, but it is a must-learn skill for surgeons regardless of the sub-speciality you choose. Most surgeons prefer hand tie over instrument tie, if that matters.
 
 Some tips:
-* Remember one side of the string is passive and the other side is active
-* The outcome should be a square knot, and if you try to push the knot sideways it would not be adjustable 
+
+- Remember one side of the string is passive and the other side is active
+- The outcome should be a square knot, and if you try to push the knot sideways it would not be adjustable 
