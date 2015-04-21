@@ -1,5 +1,5 @@
 ---
-layout: new
+layout: ion
 title: SSAHK
 permalink: /test/
 ---
