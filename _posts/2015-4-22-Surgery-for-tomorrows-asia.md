@@ -22,12 +22,20 @@ This year, the theme of the Conjoint Scientific Congress would be “Surgery for
 ### Venue
 Meeting Room S420 series, Hong Kong Convention and Exhibition Centre, 1 Expo Drive, Wan Chai, Hong Kong
 
-
 ![Surgery for tomorrow's Asia]({{ site.imgurl }}/csc2015.jpg)
 
 ## Registration
+###Quota
+50 members of SSAHK
 
-To be announced
+Note: _This event is exclusively for SSAHK members. Registrations from non-members will not be entertained._
+
+###Application Form
+[Online Registration Form](https://docs.google.com/forms/d/1IwIE0kyg_SvxkVluxQla61dcwse46BTs5NdUJB7X8BM/viewform)
+
+Deadline: 31 June 2015.
+
+_Registrations are accommodated in a first-come-first-served basis._
 
 ## Further Information
 
