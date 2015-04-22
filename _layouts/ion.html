@@ -14,15 +14,15 @@
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 		
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
+		<!--[if lte IE 8]><script src="{{ site.url }}/assets/js/html5shiv.js"></script><![endif]-->
+		<script src="{{ site.url }}/assets/js/jquery.min.js"></script>
+		<script src="{{ site.url }}/assets/js/skel.min.js"></script>
+		<script src="{{ site.url }}/assets/js/skel-layers.min.js"></script>
+		<script src="{{ site.url }}/assets/js/init.js"></script>
 		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-xlarge.css" />
+			<link rel="stylesheet" href="{{ site.url }}/assets/css/skel.css" />
+			<link rel="stylesheet" href="{{ site.url }}/assets/css/style.css" />
+			<link rel="stylesheet" href="{{ site.url }}/assets/css/style-xlarge.css" />
 		</noscript>
 	</head>
 	<body id="top">
@@ -38,10 +38,10 @@
 							{% assign current = 'active' %}
 						  {% endif %}
 						  <li class="{{ current }}">
-							<a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
+							<a href="{{ site.url }}{{ link.url }}">{{ link.text }}</a>
 						  </li>
 						{% endfor %}
-						<li><a href="{{ site.baseurl }}/search" class="button special">Search</a></li>
+						<li><a href="{{ site.url }}/search" class="button special">Search</a></li>
 					</ul>
 				</nav>
 			</header>
