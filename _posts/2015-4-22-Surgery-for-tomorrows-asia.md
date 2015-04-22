@@ -28,7 +28,7 @@ Meeting Room S420 series, Hong Kong Convention and Exhibition Centre, 1 Expo Dri
 ###Quota
 50 members of SSAHK
 
-Note: _This event is exclusively for SSAHK members. Registrations from non-members will not be entertained._
+Note: **Free application is exclusively for SSAHK members. Non-members can register independently under CSHK's website.**
 
 ###Application Form
 [Online Registration Form](https://docs.google.com/forms/d/1IwIE0kyg_SvxkVluxQla61dcwse46BTs5NdUJB7X8BM/viewform)
