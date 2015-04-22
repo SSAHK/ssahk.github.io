@@ -1,19 +1,22 @@
 ---
 layout: ion
 ---
-<header class="major">
-	<h2>SSAHK</h2>
-	<p>Student Surgical Association of Hong Kong</p>
-</header>
-<div class="container">
-	<section>
-		<h2>{{ page.title }}</h2>
-		
-		{% if page.feature-img %}
-		<img class="image fit" src="{{ site.imgurl }}{{ page.feature-img }}" alt="" />
-		{% endif %}
-		
-		{{ content }}
 
-	</section>
-</div>
+<section id="main" class="wrapper style1">
+	<header class="major">
+		<h2>SSAHK</h2>
+		<p>Student Surgical Association of Hong Kong</p>
+	</header>
+	<div class="container">
+		<section>
+			<h2>{{ page.title }}</h2>
+			
+			{% if page.feature-img %}
+			<img class="image fit" src="{{ site.imgurl }}{{ page.feature-img }}" alt="" />
+			{% endif %}
+			
+			{{ content }}
+
+		</section>
+	</div>
+</section>
