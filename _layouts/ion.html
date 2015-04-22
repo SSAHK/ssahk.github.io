@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Ion by TEMPLATED</title>
+		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+		
+		<!-- Open Graph metadata -- Better appearance on Facebook! -->
+		<meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}" />
+		<meta property="og:type" content="article" />
+		<meta property="og:site_name" content="{{ site.description }}"/>
+		<meta property="og:description" content="{{ page.excerpt | strip_html}}" />
+		{% if page.feature-img %}
+		<meta property="og:image" content="{{ site.imgurl }}{{ page.feature-img }}"/>
+		{% endif %}
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+		
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
@@ -22,13 +31,17 @@
 			<header id="header" class="skel-layers-fixed">
 				<h1><a href="#">SSAHK</a></h1>
 				<nav id="nav">
-					<ul>
-						<li><a href="index.html">Home</a></li>
-						<li><a href="left-sidebar.html">About</a></li>
-						<li><a href="right-sidebar.html">News</a></li>
-						<li><a href="no-sidebar.html">Events</a></li>
-						<li><a href="no-sidebar.html">Contact Us</a></li>
-						<li><a href="#" class="button special">Search</a></li>
+					<ul>					
+						{% for link in site.navigation %}
+						  {% assign current = nil %}
+						  {% if page.url == link.url%}
+							{% assign current = 'active' %}
+						  {% endif %}
+						  <li class="{{ current }}">
+							<a href="{{ site.baseurl }}{{ link.url }}">{{ link.text }}</a>
+						  </li>
+						{% endfor %}
+						<li><a href="{{ site.baseurl }}/search" class="button special">Search</a></li>
 					</ul>
 				</nav>
 			</header>
