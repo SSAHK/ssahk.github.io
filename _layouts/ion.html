@@ -55,25 +55,21 @@
 			<footer id="footer">
 				<div class="container">
 					<div class="row double">
-						<div class="8u">
-							<div class="row collapse-at-2">
-								<div class="8u">
-									<h3>Latest News</h3>
-									<ul class="alt">									
-									{% for post in site.categories.news limit:4%}
-										<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-									{% endfor %}
-									</ul>
-								</div>
-								<div class="8u">
-									<h3>Latest Reviews</h3>
-									<ul class="alt">						
-									{% for post in site.categories.review limit:4%}
-										<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-									{% endfor %}
-									</ul>
-								</div>
-							</div>
+						<div class="4u">
+							<h3>Latest News</h3>
+							<ul class="alt">									
+							{% for post in site.categories.news limit:4%}
+								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+							{% endfor %}
+							</ul>
+						</div>
+						<div class="4u">
+							<h3>Latest Reviews</h3>
+							<ul class="alt">						
+							{% for post in site.categories.review limit:4%}
+								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+							{% endfor %}
+							</ul>
 						</div>
 						<div class="4u">
 							<h2>Stay Tuned</h2>
