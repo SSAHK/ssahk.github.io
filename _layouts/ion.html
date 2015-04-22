@@ -59,11 +59,10 @@
 							<div class="row collapse-at-2">
 								<div class="6u">
 									<h3>Latest News</h3>
-									<ul class="alt">
-										<li><a href="#">International Minimally Invasive Surgery Conference 2015</a></li>
-										<li><a href="#">CSHK 25th Anniversary Mentorship Programme 2015 -- "Ignite a Spark, Create a Legacy"</a></li>
-										<li><a href="#">Do you have the guts to be a neurosurgeon?</a></li>
-										<li><a href="#">SSAHK 4th seminar – “What is the Minimally Invasive Surgery to the Brain?”</a></li>
+									<ul class="alt">									
+									{% for post in site.categories.news limit:5%}
+										<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+									{% endfor %}
 									</ul>
 								</div>
 								<div class="6u">
