@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ion_page
 title: Surgical Taster Day
 permalink: /taster/
 feature-img: /taster.jpg
@@ -16,8 +16,3 @@ Surgical Taster Day is a one-day event which aims to provide local senior second
 
 ##Details
 To be announced.
-
-<ul class="button-group round">
-  <li><a href="#" class="button">Register as Helper</a></li>
-  <li><a href="#" class="button">Register as Participant</a></li>
-</ul>  
