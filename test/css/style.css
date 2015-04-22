@@ -15,7 +15,7 @@
 	}
 
 	body, input, select, textarea {
-		color: #555f66;
+		color: #222628;
 		font-family: "Roboto", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -32,7 +32,7 @@
 		}
 
 	strong, b {
-		color: #666f77;
+		color: #1e2224;
 		font-weight: 500;
 	}
 
@@ -45,7 +45,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #666f77;
+		color: #191c1e;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
