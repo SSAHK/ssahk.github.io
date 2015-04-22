@@ -60,17 +60,17 @@
 								<div class="6u">
 									<h3>Latest News</h3>
 									<ul class="alt">									
-									{% for post in site.categories.news limit:5%}
+									{% for post in site.categories.news limit:4%}
 										<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 									{% endfor %}
 									</ul>
 								</div>
 								<div class="6u">
 									<h3>Latest Reviews</h3>
-									<ul class="alt">
-										<li><a href="#">Surgical Challenges in the Tropics</a></li>
-										<li><a href="#">The Art and Science of Surgery</a></li>
-										<li><a href="#">Inspiration to become a surgeon- from very basic to using the robot</a></li>
+									<ul class="alt">						
+									{% for post in site.categories.review limit:4%}
+										<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+									{% endfor %}
 									</ul>
 								</div>
 							</div>
