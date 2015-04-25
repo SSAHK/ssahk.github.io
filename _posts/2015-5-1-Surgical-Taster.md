@@ -6,12 +6,58 @@ feature-img: /taster.jpg
 category: event
 ---
 
-Surgical Taster Day is a one-day event which aims to provide local senior secondary school students (S4-S6 under the HKDSE curriculum or equivalent) with a taste in the field of Surgery. The event will be run twice during July and August, in order to best accommodate with participants’ schedules. An estimated number of 100 secondary school students would participate each day. Through interactive seminars on anatomy and surgical-related topics, practical skills sessions involving trying out suturing and knot-tying skills, as well as small group discussions with current medical students, we hope to foster interest in the surgical field in local prospective medical students.
+Surgical Taster Day is a two-day event which aims to provide local senior secondary school students (S4-S6 under the HKDSE curriculum or equivalent) with a taste in the field of Surgery. The event will be run in early July in order to best accommodate with participants’ schedules. An estimated number of 100 secondary school students would participate each day and they are welcome to join either day only as well. Through interactive seminars on anatomy and surgical-related topics, practical skills sessions involving trying out suturing and
+knot-tying skills, small group discussions with current medical students, and simulation of learning settings, we hope to foster interest in the surgical field in local prospective medical students.
 
 ##Objectives
 - To provide secondary school students in Hong Kong early exposure to the field of Surgery
 - To cultivate  secondary school students’ interest related to Surgery
 - To facilitate interaction between prospective medical students and current members of the medical school
 
-##Details
-To be announced.
+##Date and Venue
+
+Day 1: 11th July 2015 (Sat) in The University of Hong Kong
+
+Day 2: 12th July 2015 (Sun) in The Chinese University of Hong Kong
+
+##Content
+
+####Sharing Sessions by Medical Professionals  
+ 
+To give local secondary school students a glimpse into the surgical area as well as ethical issues encountered by professionals, surgeons and staff share their personal experience with our participants in a semi­formal manner.
+
+####Knot­tying and Suturing Session (Day 1)
+
+Participants are provided with the opportunity to try knot­tying as well as some fundamental suturing skills. This session will be led by surgeons and/or student helpers. We hope the hands­on practice will prove to be an invaluable experience for the participants. 
+ 
+Proposed Skills:  
+ 
+- Handling of instruments including scalpels, scissors, artery forceps and needle holders  
+- Instrument tie (square knot)  
+- Hand tie (square knot)  
+- Interrupted sutures  
+
+####Simulated Tutorials and Sharing Session by Students (Day 1)
+
+Participants will experience simulated tutorials in a Problem­Based Learning style, during which surgical related topics will be discussed using layman terms. This session aims to to provide participants with rudimentary knowledge of common surgeries as well as a taste of a typical tutorial. 
+
+Additionally, current medical students (clinical and/or pre­clinical) will share their medical school life, in particular, challenges they have encountered and ways to overcome them. Through interaction, we aim to deepen participants’ understanding of medical school life and answer some of the questions they may have in mind, which will hopefully aid them in making informed decisions when choosing university majors.
+
+####Introduction to Common Surgeries (Day 2)
+
+Participants would gain deeper insight into some common diseases and their surgical principles under the guidance of surgeons. Specimens would be displayed with explanations from helpers to help illustrate the relevant anatomy.  
+
+These surgeries are proposed due to their high frequency and great relevance to the general public. We hope this would prove to be a unique experience for the participants.  
+
+1. Thyroidectomy
+2. Gastrectomy
+3. Cholecystectomy
+4. Appendectomy
+5. Colectomy
+6. Heart Transplant
+7. Liver Transplant
+8. Renal Transplant
+9. Neurosurgery
+
+##Application Procedures
+Announced soon.
