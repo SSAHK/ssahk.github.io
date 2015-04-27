@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ion_page
 title: Past Seminars
 permalink: /seminars/
 feature-img: /seminarseries2015.jpg
@@ -10,20 +10,16 @@ feature-img: /seminarseries2015.jpg
 {% for post in site.posts %}
 	{% if post.categories contains 'review' and post.categories contains 'seminar'%}
 	<article class="post">
-	
+
 	<h3>{{ post.title }}</h3>
 		  <div class="entry">
-		  	<div class="medium-8 small-12 columns">
 				<p>
 					{{ post.excerpt }}
 				</p>
-				 <p>
-					  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
-				  </p>
-			</div>
-		  	<div class="medium-4 small-12 columns">
-					<img height="150" width="150" src="{{ site.imgurl }}{{ post.thumb-img }}"/>
-			</div>			
+				<p>
+					  <a class="button" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+				</p>
+					<img class="image right" height="150" width="150" src="{{ site.imgurl }}{{ post.thumb-img }}"/>
 		  </div>
 	<hr>
 	</article>
