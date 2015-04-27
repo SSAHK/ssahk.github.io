@@ -13,13 +13,11 @@ feature-img: /seminarseries2015.jpg
 
 	<h3>{{ post.title }}</h3>
 		  <div class="entry">
+				<img class="image left" height="150" width="150" src="{{ site.imgurl }}{{ post.thumb-img }}"/>
 				<p>
 					{{ post.excerpt }}
 				</p>
-				<p>
-					  <a class="button" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-				</p>
-					<img class="image right" height="150" width="150" src="{{ site.imgurl }}{{ post.thumb-img }}"/>
+				<a class="button" href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 		  </div>
 	<hr>
 	</article>
