@@ -1,6 +1,4 @@
----
----
-/*
+<script type="text/javascript">/*
 	Ion by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -11,7 +9,7 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			
+
 			// Global.
 				global: {
 					range: '*',
@@ -81,12 +79,12 @@
 		},
 		plugins: {
 			layers: {
-				
+
 				// Config.
 					config: {
 						transform: true
 					},
-				
+
 				// Navigation Panel.
 					navPanel: {
 						animation: 'pushX',
@@ -116,9 +114,10 @@
 	});
 
 	$(function() {
-		
+
 		// jQuery ready stuff.
-		
+
 	});
 
 })(jQuery);
+</script>

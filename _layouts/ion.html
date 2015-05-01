@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
-		
+
 		<!-- Open Graph metadata -- Better appearance on Facebook! -->
 		<meta property="og:title" content="{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}" />
 		<meta property="og:type" content="article" />
@@ -12,13 +12,13 @@
 		<meta property="og:image" content="{{ site.imgurl }}{{ page.feature-img }}"/>
 		{% endif %}
 		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-		
+
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<!--[if lte IE 8]><script src="{{ site.url }}/assets/js/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.url }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.url }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.url }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.url }}/assets/js/init.js"></script>
+		<!--[if lte IE 8]>{% include html5shiv.js %}<![endif]-->		
+		{% include jquery.min.js %}
+		{% include skel.min.js %}
+		{% include skel-layers.min.js %}
+		{% include init.js %}
 		<noscript>
 			<link rel="stylesheet" href="{{ site.url }}/assets/css/skel.css" />
 			<link rel="stylesheet" href="{{ site.url }}/assets/css/style.css" />
@@ -31,7 +31,7 @@
 			<header id="header" class="skel-layers-fixed">
 				<h1><a href="#">SSAHK</a></h1>
 				<nav id="nav">
-					<ul>					
+					<ul>
 						{% for link in site.navigation %}
 						  {% assign current = nil %}
 						  {% if page.url == link.url%}
@@ -55,7 +55,7 @@
 					<div class="row double">
 						<div class="4u">
 							<h3>Latest News</h3>
-							<ul class="alt">									
+							<ul class="alt">
 							{% for post in site.categories.news limit:4%}
 								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 							{% endfor %}
@@ -63,7 +63,7 @@
 						</div>
 						<div class="4u">
 							<h3>Latest Reviews</h3>
-							<ul class="alt">						
+							<ul class="alt">
 							{% for post in site.categories.review limit:4%}
 								<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 							{% endfor %}
