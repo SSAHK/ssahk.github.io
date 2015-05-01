@@ -1,8 +1,8 @@
   <!-- Search form -->
   <form method="get" action="/search" data-search-form>
-	
-	
-	
+
+
+
 	  <div class="row">
 		<div class="large-12 columns">
 		  <div class="row collapse">
@@ -39,4 +39,4 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
   <!-- Search script - Must appear after template -->
-  <script src="/scripts/search.js"></script>
+  <script type="text/javascript">function initSearch(){getParameterByName("q")&&(q=decodeURIComponent(getParameterByName("q")),$searchInput.val(q),execSearch(q)),$(document).on("submit",$searchForm,function(e){e.preventDefault(),q=$searchInput.val(),execSearch(q)})}function execSearch(e){(""!=e||allowEmpty)&&(showLoader&&toggleLoadingClass(),getSearchResults(processData()))}function toggleLoadingClass(){$resultsPlaceholder.toggleClass(loadingClass),$foundContainer.toggleClass(loadingClass)}function getSearchResults(e){$.get(jsonFeedUrl,e,"json")}function processData(){return $results=[],function(e){var t=0,n="";$.each(e,function(e,o){var a=o.content.toLowerCase().indexOf(q.toLowerCase());if(a>-1){var r=o.content.substring(a-75,a+75),s=populateResultContent($resultTemplate.html(),o,r);return t++,void(n+=s)}if(o.title.toLowerCase().indexOf(q.toLowerCase())>-1){var s=populateResultTitle($resultTemplate.html(),o);return t++,void(n+=s)}var l=q.toLowerCase().split(" ");$.each(l,function(e,a){var r=o.content.toLowerCase().indexOf(a.toLowerCase());if(r>-1){var s=o.content.substring(r-75,r+75),l=populateResultContent($resultTemplate.html(),o,s);return t++,n+=l,!1}if(o.title.toLowerCase().indexOf(a.toLowerCase())>-1){var l=populateResultTitle($resultTemplate.html(),o);return t++,n+=l,!1}})}),showLoader&&toggleLoadingClass(),populateResultsString(t),showSearchResults(n)}}function showSearchResults(e){$resultsPlaceholder.html(e)}function populateResultContent(e,t,n){return e=injectContent(e,t.title,"##Title##"),e=injectContent(e,t.link,"##Url##"),e=injectContent(e,n,"##Excerpt##"),e=injectContent(e,t.date,"##Date##")}function populateResultTitle(e,t){return e=injectContent(e,t.title,"##Title##"),e=injectContent(e,t.link,"##Url##"),e=injectContent(e,t.excerpt,"##Excerpt##"),e=injectContent(e,t.date,"##Date##")}function populateResultsString(e){$foundTerm.text(q),$foundCount.text(e),$foundContainer.show()}function getParameterByName(e){var t=RegExp("[?&]"+e+"=([^&]*)").exec(window.location.search);return t&&decodeURIComponent(t[1].replace(/\+/g," "))}function injectContent(e,t,n){var o=new RegExp(n,"g");return e.replace(o,t)}var q,jsonFeedUrl="/feeds/feed.json",$searchForm=$("[data-search-form]"),$searchInput=$("[data-search-input]"),$resultTemplate=$("#search-result"),$resultsPlaceholder=$("[data-search-results]"),$foundContainer=$("[data-search-found]"),$foundTerm=$("[data-search-found-term]"),$foundCount=$("[data-search-found-count]"),allowEmpty=!0,showLoader=!0,loadingClass="is--loading";$(document).ready(function(){$foundContainer.hide(),initSearch()});</script>
