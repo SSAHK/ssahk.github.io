@@ -2,7 +2,7 @@
 layout: ion_page
 title: Committee 2015-2016 Recruitment
 permalink: /comm1516/
-feature-img: /recruitment1516.png
+feature-img: /recruitment1516.jpg
 category: news
 ---
 Interested in being a part of us?
