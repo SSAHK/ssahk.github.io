@@ -2,7 +2,7 @@
 layout: ion_page
 title: Committee 2015-2016 Recruitment
 permalink: /comm1516/
-feature-img: /Recruitment.png
+feature-img: /recruitment1516.png
 category: news
 ---
 Interested in being a part of us?
@@ -24,3 +24,7 @@ To explain our missions and goals as a society, the nature of different posts an
 ### Registration
 
 Please sign up at the [Google Form](https://docs.google.com/forms/d/1GA5I03_2DZyrDVy75flWZ7vVVbTf7VTRTAjT9OQa9A0/viewform?edit_requested=true).
+
+### Downloads
+
+[Tea Gathering Poster]({{ site.baseurl }}/public/Tea-gathering-2015-2016)
