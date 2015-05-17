@@ -49,15 +49,18 @@ Participants would gain deeper insight into some common diseases and their surgi
 
 These surgeries are proposed due to their high frequency and great relevance to the general public. We hope this would prove to be a unique experience for the participants.  
 
-1. Thyroidectomy
-2. Gastrectomy
-3. Cholecystectomy
-4. Appendectomy
-5. Colectomy
-6. Heart Transplant
-7. Liver Transplant
-8. Benign Prostatic Hyperplasia
-9. Neurosurgery
+|Station|Specialties|Topic|
+|------|------------|----|
+|1|General Surgery ­- Endocrine Surgery|Thyroidectomy|
+|2|General Surgery -­ Upper Gastrointestinal Surgery|Gastrectomy
+|3|General Surgery ­- Hepatobiliary Surgery|Cholecystectomy
+|4|General Surgery -­ Hepatobiliary Surgery|Liver Transplantation
+|5|General Surgery ­- Lower Gastrointestinal Surgery|Appendectomy
+|6|General Surgery -­ Lower Gastrointestinal Surgery|Colectomy
+|7|Urology|Benign Prostatic Hyperplasia
+|8|Cardiothoracic Surgery|Coronary ArteryBypass Graft (CABG)
+|9|Plastic Surgery|Facial Reconstruction
+|10|Neurosurgery|Epilepsy Surgery
 
 ##Application Fee
 - Day 1 (The University of Hong Kong) - $250
@@ -69,3 +72,5 @@ These surgeries are proposed due to their high frequency and great relevance to 
 1. Interested students should fill in the [Online Application Form](https://docs.google.com/forms/d/1dRmCwX5TmRnHx15IYvVwly6K_eA0t6UNT6xVjr1_pPM/viewform?edit_requested=true)
 2. We will send you a confirmation email detailing the payment method.
 3. Should applicants fail to submit the application fee on time, his/her application will be void.
+
+**Application Deadline: 17 June 2015**
