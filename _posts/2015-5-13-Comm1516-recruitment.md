@@ -14,7 +14,7 @@ Those who would like to learn more about us may come to our recruitment tea gath
 
 ### Time and Venue
 
-- 19th June 5-7 p.m. at Rm 306, BMSM, CUHK
+- 19th June 5-7 p.m. at Rm 306, BMSB, CUHK
 - 26th June 5-7 p.m. at Medical Campus, HKU (TBA)
 
 ### Objectives
