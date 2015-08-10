@@ -4,7 +4,7 @@ title: Surgery for Tomorrow's Asia
 feature-img: /csc2015cover.jpg
 categories: [news,conference]
 ---
-You are cordially invited to join the Annual event of the College of Surgeons of Hong Kong - the RCSEd/CSHK Conjoint Scientific Congress 2015 | Asian Surgical Association 20th Asian Congress of Surgery. This Congress will broaden your horizon on the latest surgical knowledge and technology, as well as provide you an excellent opportunity to meet with surgical leaders.
+You are cordially invited to join the Annual event of the College of Surgeons of Hong Kong - the RCSEd/CSHK Conjoint Scientific Congress 2015 - Asian Surgical Association 20th Asian Congress of Surgery. This Congress will broaden your horizon on the latest surgical knowledge and technology, as well as provide you an excellent opportunity to meet with surgical leaders.
 
 This year, the theme of the Conjoint Scientific Congress would be “Surgery for Tomorrow’s Asia”. The Congress attracts hundreds of delegates from local, Mainland and overseas. Various surgical colleges and disciplines as well as prominent international figures will be gathered together to provide a multi-disciplinary Congress.
 
