@@ -18,7 +18,7 @@ Mr. Chu Tik Ming Dennis
 
 ### External Secretary
 
-Ms. Denise M. Au
+Ms. Danise M. Au
 (MBBS 2021)
 
 ### Internal Secretary
@@ -52,7 +52,7 @@ Ms. Ma Ka Wai Kitty
 Ms. Cheung Kwong Yee, Chloe
 (MBBS 2021)
 
-### Publications and Promotions Directors
+### Publication and Promotion Directors
 
 Mr. Wu Tai Dong Dex
 (MBBS 2020)
