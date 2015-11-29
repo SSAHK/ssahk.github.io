@@ -3,7 +3,7 @@ layout: post
 title: Inauguration Ceremony 2015
 categories: [review]
 thumb-img: /inaug1516/thumb.png
-feature-img: /inaug1516/feature.jpg
+feature-img: /inaug1516/feature-c.jpg
 excerpt:  We are delighted to present the 2nd executive committee of Student Surgical Association of Hong Kong! ...
 ---
 
