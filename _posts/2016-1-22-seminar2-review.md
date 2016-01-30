@@ -7,7 +7,7 @@ feature-img: /second_seminar/feature.jpg
 excerpt:  The second seminar of SSAHK - “Aesthetic vs Reconstructive surgeries: A look into their similarities and differences”, by our honourable guest speaker - Dr. Chan Yu Wai, was held fruitfully on 22nd January ......
 ---
 
-The second seminar of SSAHK - “Aesthetic vs Reconstructive surgeries: A look into their similarities and differences” ,by our honourable guest speaker - Dr. Chan Yu Wai, was held fruitfully on 22nd January at the Queen Mary Hospital, Professorial Block, Lecture Theatre.
+The second seminar of SSAHK - “Aesthetic vs Reconstructive surgeries: A look into their similarities and differences”, by our honourable guest speaker - Dr. Chan Yu Wai, was held fruitfully on 22nd January at the Queen Mary Hospital, Professorial Block, Lecture Theatre.
 
 Dr. Chan is currently the Division Chief and Associated professor of both the Head and Neck surgery department, and the Plastic and Reconstructive surgery department of the University of Hong Kong. Dr. Chan is very rich in experience and expertise to in the field of Aesthetic and Reconstructive surgeries. He is the Executive Management Committee of the Area of Excellence Scheme, as well as the President of the Hong Kong Head & Neck Society.
 
