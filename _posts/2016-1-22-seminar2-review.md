@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aesthetic vs Reconstructive Surgeries: A look into their similarities & differences - Seminar given by Dr. Chan Yu Wai
+title: Aesthetic vs Reconstructive Surgeries - Seminar given by Dr. Chan Yu Wai
 categories: [review]
 thumb-img: /second_seminar/thumb15.jpg
 feature-img: /second_seminar/feature.jpg
