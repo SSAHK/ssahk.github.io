@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aesthetic vs Reconstructive Surgeries - Seminar given by Dr. Chan Yu Wai
-categories: [review]
+categories: [seminar,review]
 thumb-img: /second_seminar/thumb15.jpg
 feature-img: /second_seminar/feature.jpg
 excerpt:  The second seminar of SSAHK - “Aesthetic vs Reconstructive surgeries: A look into their similarities and differences”, by our honourable guest speaker - Dr. Chan Yu Wai, was held fruitfully on 22nd January ......

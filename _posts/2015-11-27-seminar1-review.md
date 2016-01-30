@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The War Zone Surgeon - Seminar given by Dr. Au Yiu Kai
-categories: [review]
+categories: [seminar,review]
 thumb-img: /first_seminar/thumb15.jpg
 feature-img: /first_seminar/feature.jpg
 excerpt:  SSAHK was honoured to have invited Dr. Au Yiu Kai as our guest speaker for our first seminar - “The War Zone Surgeon” which was held successfully on 27th November at the Prince of Wales Hospital, Lui Che Wo Clinical Sciences Building, Lecture Theatre ...
