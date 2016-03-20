@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Careers Night 2016
+title: Careers Night 2016 Review
 categories: [seminar,review]
 thumb-img: /careersnight2016/thumb.png
 feature-img: /careersnight2016/Feature.jpg
