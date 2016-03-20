@@ -3,7 +3,7 @@ layout: post
 title: Careers Night 2016
 categories: [seminar,review]
 thumb-img: /careersnight2016/thumb.png
-feature-img: /careersnight2016/feature.jpg
+feature-img: /careersnight2016/Feature.jpg
 excerpt:  SSAHK annual Careers Night was successfully held on 4th March, 2016......
 ---
 
