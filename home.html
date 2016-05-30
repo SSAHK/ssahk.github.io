@@ -49,14 +49,15 @@ permalink: /
 			<section id="two" class="wrapper style2">
 				<header class="major">
 					<h2>Upcoming events</h2>
+					<p>Never miss out the latest information by following our Facebook <a href="https://www.facebook.com/Student-Surgical-Association-of-Hong-Kong-SSAHK-255010581374442/?fref=ts">Page!</a></p>
 				</header>
 				<div class="container">
 					<div class="row">
 						{% for post in site.categories.news limit:1%}
 						<div class="12u">
 							<section class="special">
-								<h3>{{ post.title }}</h3>
 								<a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><img src="{{ site.imgurl }}{{ post.feature-img }}" alt="" /></a>
+								<h2>{{ post.title }}</h2>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
 									<li><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">Read More</a></li>
