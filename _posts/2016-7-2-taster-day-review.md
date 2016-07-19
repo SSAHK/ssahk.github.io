@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Surgical Taster Day 2016 Review
