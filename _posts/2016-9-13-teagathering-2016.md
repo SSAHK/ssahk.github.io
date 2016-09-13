@@ -16,6 +16,6 @@ Application for the 3rd executive committee will open soon. Medical students fro
 
 Come to our tea gatherings if you want to know more about our structure and the details of organising large scale events! You are also welcomed to come for better understanding of our missions and us! Lunch and light refreshments will be served!
 
-If you are interested in joining the tea gatherings, please [register online](https://goo.gl/forms/yjbHh3n3jzJFxxDZ2) in advance for better arrangements of food ordering and refreshments.
+If you are interested in joining the tea gatherings, please <a href="https://goo.gl/forms/yjbHh3n3jzJFxxDZ2" target="_blank">register online</a> in advance for better arrangements of food ordering and refreshments.
 
 We look forward to seeing you in our tea gatherings :)
