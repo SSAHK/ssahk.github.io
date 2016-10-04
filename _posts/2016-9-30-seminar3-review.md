@@ -4,7 +4,7 @@ title: Healing the Young - Seminar given by Dr. Wong Kak Yuen
 categories: [seminar,review]
 thumb-img: /third_seminar2016/thumb.jpg
 feature-img: /third_seminar2016/feature.jpg
-excerpt:  The third seminar of SSAHK, aiming at exploring one of the most vigorously growing fields in surgery - Paediatric surgery,  was successfully held ......
+excerpt:  The third seminar of SSAHK, aiming at exploring one of the most vigorously growing fields in surgery - Paediatric surgery...
 ---
 
 The third seminar of SSAHK, aiming at exploring one of the most vigorously growing fields in surgery - Paediatric surgery,  was successfully held on 30th September, 2016 at the Queen Mary Hospital, Professorial Block, Lecture Theatre. We are honoured to have invited Dr. Wong Kak Yuen, Kenneth to be our guest speaker. Dr. Wong is a Clinical Associate Professor of the Department of Surgery with more than 15 years of experience specialising in Paediatric surgery.
