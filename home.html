@@ -43,6 +43,10 @@ permalink: /
 						</div>
 					</div>
 				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
 				<header class="major">
 						<h2>Briefing Review of the Last Year</h2>
 				</header>
@@ -50,30 +54,6 @@ permalink: /
 						<iframe width="784" height="441" src="https://www.youtube.com/embed/b4iiIEEAqDA" frameborder="0" allowfullscreen>
 						</iframe>
 				</center>
-			</section>
-
-		<!-- Two -->
-			<section id="two" class="wrapper style2">
-				<header class="major">
-					<h2>Latest Updates</h2>
-					<p>Never miss out the newest information by following our Facebook <a href="https://www.facebook.com/Student-Surgical-Association-of-Hong-Kong-SSAHK-255010581374442/?fref=ts" target="_blank">Page</a> !</p>
-				</header>
-				<div class="container">
-					<div class="row">
-						{% for post in site.categories.news limit:3%}
-						<div class="4u">
-							<section class="special">
-								<a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><img src="{{ site.imgurl }}{{ post.feature-img }}" alt="" /></a>
-								<h2>{{ post.title }}</h2>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">Read More</a></li>
-								</ul>
-							</section>
-						</div>
-						{% endfor %}
-					</div>
-				</div>
 			</section>
 
 			<!-- Three -->
